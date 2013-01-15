@@ -1,10 +1,8 @@
 #include "WPILib.h"
 
 /**
- * This is a demo program showing the use of the RobotBase class.
- * The SimpleRobot class is the base of a robot application that will automatically call your
- * Autonomous and OperatorControl methods at the right time as controlled by the switches on
- * the driver station or the field controls.
+ * This is a demo program based on SimpleRobotTemplate.
+ * We're using it for GitHub training.
  */ 
 class RobotDemo : public SimpleRobot
 {
